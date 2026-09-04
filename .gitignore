@@ -1,0 +1,38 @@
+# Never commit a real paper or a real feedback report
+*.docx
+*.doc
+*.odt
+*.pages
+feedback*.json
+!paper-grader/scripts/example-feedback.json
+Feedback*.pdf
+*-feedback.pdf
+drafts/
+papers/
+submissions/
+
+# The sample report is fictional and intentionally tracked
+*.pdf
+!example-report.pdf
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+secrets.*
+credentials.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
