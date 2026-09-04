@@ -1,0 +1,77 @@
+{
+ "paper_title": "Northwind Cycles: Entering the Portuguese Market",
+ "course": "MGMT 540",
+ "assignment": "Group market entry analysis, 15 pages",
+ "rubric_used": "Professor rubric (uploaded)",
+ "graded_on": "2026-08-31",
+ "current_grade": {
+  "letter": "B",
+  "score": 84
+ },
+ "projected_grade": {
+  "letter": "A-",
+  "score": 91,
+  "condition": "if the three letter-grade findings are fixed"
+ },
+ "summary": "Two or three sentences in the professor's voice: what this paper does well, and the one thing keeping it out of the A range.",
+ "rubric_scores": [
+  {
+   "category": "Problem definition",
+   "weight": 15,
+   "score": 88,
+   "comment": "One line on what earned or cost points here."
+  }
+ ],
+ "findings": [
+  {
+   "tier": "letter",
+   "location": "Section 4, p. 9",
+   "quote": "The Portuguese market presents significant opportunity for expansion.",
+   "issue": "The recommendation is asserted rather than sized.",
+   "why": "Evidence and quantification (20% of grade)",
+   "fix": "Add the addressable market figure from your Exhibit 2 and state the revenue assumption behind it."
+  }
+ ],
+ "priority_fixes": [
+  "Highest-impact fix, stated as an instruction.",
+  "Second one.",
+  "Third one."
+ ],
+ "members": [
+  {
+   "name": "Dana Ellsworth",
+   "sections": [
+    "Risk Mitigation",
+    "Appendix B"
+   ],
+   "findings": [
+    {
+     "tier": "points",
+     "location": "Risk Mitigation, p. 11",
+     "quote": "Regulatory risk remains a concern.",
+     "issue": "Risk named without a mitigation.",
+     "why": "Risk and alternatives (10%)",
+     "fix": "Pair each risk with a specific response and an owner."
+    }
+   ],
+   "tasks": [
+    {
+     "task": "Add mitigations for the three named risks.",
+     "time": "45 min"
+    }
+   ]
+  },
+  {
+   "name": "Theo Marchetti",
+   "sections": [
+    "Financial Projections"
+   ],
+   "tasks": [
+    "Recheck the NPV table against the assumptions in Section 3."
+   ]
+  }
+ ],
+ "team_items": [
+  "Executive summary recommends a joint venture; Section 5 recommends direct entry."
+ ]
+}
