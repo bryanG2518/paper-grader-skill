@@ -1,5 +1,13 @@
 # paper-grader
 
+<p>
+  <img src="https://img.shields.io/github/license/bryanG2518/paper-grader-skill?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/stars/bryanG2518/paper-grader-skill?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/issues/bryanG2518/paper-grader-skill?style=flat-square" alt="Open Issues">
+  <img src="https://img.shields.io/github/last-commit/bryanG2518/paper-grader-skill?style=flat-square" alt="Last Commit">
+  <img src="https://img.shields.io/badge/works%20with-Claude%20%26%20ChatGPT-6E56CF?style=flat-square" alt="Compatible with Claude and ChatGPT">
+</p>
+
 An Agent Skill that grades an academic paper the way a professor **in that specific
 field** will. It reads the paper, works out which of 50 academic disciplines it
 belongs to, applies that field's standards, and hands back a PDF: a current grade, a
@@ -106,7 +114,7 @@ to override its guess: *"grade this as a sociology paper, not a stats paper."*
 ├── .gitignore
 ├── example-report.pdf              a rendered sample, fictional paper
 ├── social-preview.jpg              1280x640 card for GitHub's Settings panel
-├── demo/                           the demo video and its source
+├── demo/                            the demo video and its source
 └── paper-grader/                   ← the skill itself; this is what you zip
 ```
 
